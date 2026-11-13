@@ -1,0 +1,11 @@
+# Generated Tor service keys and runtime data
+data/
+.hidden_service/
+
+# Logs and local secrets
+*.log
+.env
+
+# Local/editor files
+.DS_Store
+.vscode/
